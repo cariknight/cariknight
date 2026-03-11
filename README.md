@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪴I'm currently learning Web Development<br>🎯Planning to specialize in Data Analytics/Science<br><br>💜🪻💟🐼
+🎒2nd Year Computer Science Student<br><br>🪴I'm currently learning Web Development<br>🎯Planning to specialize in Data Analytics/Science<br><br>💜🪻💟🐼
 
 
 ## 🌐 Socials:
