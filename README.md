@@ -15,7 +15,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cariknight&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=cariknight&icon=5&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
